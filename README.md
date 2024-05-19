@@ -33,8 +33,8 @@ Welcome to the **Full Stack Dashboard** repository! This project is a complete d
 ### Prerequisites
 
 - Node.js
-├───backend (under development)
-│   ├── MongoDB (or another database) 
+- backend (under development)
+- MongoDB (under development) 
 - npm or yarn
 
 ### Installation Steps
@@ -73,4 +73,3 @@ For questions or suggestions, feel free to open an issue or contact me directly:
 
 I hope you enjoy using this project as much as I enjoyed creating it! 🚀
 
-![Dashboard Preview](https://link-to-image-preview.png)
